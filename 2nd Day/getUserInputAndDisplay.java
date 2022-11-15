@@ -9,6 +9,7 @@ class getUserInputAndDisplay {
         String question = sc.nextLine();
         System.out.print("Answer: ");
         String ans = sc.nextLine();
+        sc.close();
 
         System.out.println("FAQs");
         System.out.println("Question : " + question);

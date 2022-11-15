@@ -30,6 +30,7 @@ public class fibonacciAndFactorial {
         Integer num = s.nextInt();
         int factorial = fact(num);
         System.out.println("Factorial of " + num + " is :  " + factorial);
+        s.close();
 
     }
 
