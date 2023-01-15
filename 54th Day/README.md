@@ -1,0 +1,1 @@
+program to demonstrate pallindrome 
