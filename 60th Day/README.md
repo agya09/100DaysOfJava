@@ -1,0 +1,1 @@
+A program in Java to verify the equality of an Object with a Set and compare them
