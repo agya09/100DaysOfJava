@@ -1,0 +1,2 @@
+Program to check whether given numbers are xylem or phloem
+Xylem and Phloem : A number N will be a xylem number if the sum of its extreme (first and last) digits is equal to the sum of mean (all digits except first and last) digits. If the sum of extreme digits is not equal to the sum of mean digits, the number is called phloem number.
