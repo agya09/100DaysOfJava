@@ -1,0 +1,3 @@
+TO check whether a given number is ttech number or not
+Technumber: 
+A number is called a tech number if the given number has an even number of digits and the number can be divided exactly into two parts from the middle. After equally dividing the number, sum up the numbers and find the square of the sum. If we get the number itself as square, the given number is a tech number, else, not a tech number. 
