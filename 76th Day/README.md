@@ -1,0 +1,1 @@
+ In this program, we have an array of elements to count the occurrence of its each element. 
