@@ -1,0 +1,1 @@
+Program to find an element in a array using binary serch
