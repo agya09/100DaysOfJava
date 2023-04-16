@@ -3,4 +3,9 @@ public class A {
         System.out.println("Agya");
 
     }
+   public static void main(String[] args) {
+        A a = new A();
+        a.name();
+        
+    }
 }
